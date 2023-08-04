@@ -1,9 +1,0 @@
-Package: com.cann66.freemarket
-Name: Free Market
-Depends: mobilesubstrate
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Change "Get" to "Free" in the Appstore
-Maintainer: Cann66
-Author: Cann66
-Section: Tweaks
